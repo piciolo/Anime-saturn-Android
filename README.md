@@ -28,14 +28,6 @@
   <img src="screenshots/player.png" width="30%" alt="Player con sottotitoli">
 </p>
 
-<p align="center">
-  <img src="screenshots/player-landscape.png" width="46%" alt="Player a schermo intero">
-  &nbsp;
-  <img src="screenshots/download.png" width="30%" alt="Coda di download">
-  &nbsp;
-  <img src="screenshots/impostazioni.png" width="30%" alt="Impostazioni">
-</p>
-
 ## ✨ Funzioni
 
 - 🔎 **Ricerca** con suggerimenti mentre scrivi, **catalogo** (Archivio / In corso / Ultimi) e
