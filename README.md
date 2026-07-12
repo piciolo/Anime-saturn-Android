@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="110" alt="AnimeSaturn Android">
+   <img src="screenshots/social-preview.png" width="70%" alt="Catalogo">
 </p>
 
 <h1 align="center">AnimeSaturn — App Android</h1>
